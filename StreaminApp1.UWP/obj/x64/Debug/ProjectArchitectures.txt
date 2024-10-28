@@ -1,0 +1,1 @@
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\StreamingApp.UWP.csproj;x64

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nSYL5wwYDd9re6bYZc+25yZsgg83AwtTf5PlDVl8R3PROK9yquzr5g2eB1mj811Fcnn6DmshDPcjfZ6AP075BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pedro Mateus\\Source\\Repos\\ad-project-group-11\\StreamingApp\\StreamingApp.Domain\\StreamingApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro Mateus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Pedro Mateus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
